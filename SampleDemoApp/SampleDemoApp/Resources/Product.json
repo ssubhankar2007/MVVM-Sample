@@ -1,0 +1,84 @@
+{
+    "conversion":
+    [
+        {
+            "from":"AED",
+            "to":"SAR",
+            "rate":"0.8"
+        },
+        {
+            "from":"AED",
+            "to":"INR",
+            "rate":"17.1"
+        },
+        {
+            "from":"SAR",
+            "to":"INR",
+            "rate":"17.2"
+        },
+        {
+            "from":"INR",
+            "to":"AED",
+            "rate":"0.057"
+        }
+    ],
+    "title":"Printed Kurta upto 30% off",
+    "products":
+    [
+        {
+            "url":"http://be962883fa4932cb8c45-4918b6c23895973d0d77439479dabaa9.r81.cf3.rackcdn.com/119580217-PA008_01-800.jpg",
+            "name":"Avent Medium-flow Silicone Teats",
+            "price":"27.00",
+            "currency": "AED"
+        },
+        {
+            "url":"http://be962883fa4932cb8c45-4918b6c23895973d0d77439479dabaa9.r81.cf3.rackcdn.com/117514970-MOD9611_01-800.jpg",
+            "name":"Juniors Cream Bed Guard",
+            "price":"80.00",
+            "currency": "SAR"
+        },
+        {
+            "url":"http://7363c8e5d644af3f61fe-f801ca07733addcf236da446f6ef5b12.r6.cf3.rackcdn.com/BA68420_01-215.jpg",
+            "name":"Giggles Glider Chair and Ottoman",
+            "price":"995.00",
+            "currency": "INR"
+        },
+        {
+            "url":"http://be962883fa4932cb8c45-4918b6c23895973d0d77439479dabaa9.r81.cf3.rackcdn.com/962_01-800.jpg",
+            "name":"Juniors Steam Steriliser",
+            "price":"175.00",
+            "currency": "SAR"
+        },
+        {
+            "url":"http://7363c8e5d644af3f61fe-f801ca07733addcf236da446f6ef5b12.r6.cf3.rackcdn.com/YS301-FG-Multicolour-YS301-FG-BA16BS50_01-196.jpg",
+            "name":"Juniors Printed Bassinet",
+            "price":"469.00",
+            "currency": "AED"
+        },
+        {
+            "url":"http://7363c8e5d644af3f61fe-f801ca07733addcf236da446f6ef5b12.r6.cf3.rackcdn.com/M-8312-FV-Multicolour-M-8312-FV-BA16BS49_01-196.jpg",
+            "name":"Juniors Flint Baby Rocker",
+            "price":"99.00",
+            "currency": "INR"
+        },
+        {
+            
+            "url":"http://be962883fa4932cb8c45-4918b6c23895973d0d77439479dabaa9.r81.cf3.rackcdn.com/119580217-PA008_01-800.jpg",
+            "name":"Juniors Cream Red Bed Guard",
+            "price":"27.00",
+            "currency": "INR"
+        },
+        {
+            "url":"http://be962883fa4932cb8c45-4918b6c23895973d0d77439479dabaa9.r81.cf3.rackcdn.com/117514970-MOD9611_01-800.jpg",
+            "name":"Juniors Cream Bed Guard",
+            "price":"80.00",
+            "currency": "AED"
+        },
+        {
+            "url":"http://7363c8e5d644af3f61fe-f801ca07733addcf236da446f6ef5b12.r6.cf3.rackcdn.com/BA68420_01-215.jpg",
+            "name":"Juniors Scratch Bassinet",
+            "price":"995.00",
+            "currency": "SAR"
+        }
+    ]
+}
